@@ -3,6 +3,7 @@
 This file is used to list changes made in each version of grafana.
 
 ## Unreleased
+- Fixed keys naming for log.file section in grafana.ini.erb
 
 ## 9.7.1 - *2021-08-30*
 
